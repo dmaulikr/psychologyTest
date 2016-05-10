@@ -1,0 +1,9 @@
+//
+//  infoPlist.m
+//  psychologyTest
+//
+//  Created by stanley_Hwang on 11/23/15.
+//  Copyright © 2015 stanley_Hwang. All rights reserved.
+//
+
+CFBundleDisplayName="酒店签到";
